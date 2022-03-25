@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e25d761.css",
+    "main.js": "/static/js/main.2548e21e.js",
+    "static/media/phantomimage.png": "/static/media/phantomimage.76a29256aa63fd2a7c41.png",
+    "static/media/fireblog.png": "/static/media/fireblog.c7d3bc8e5819ff4616e9.png",
+    "static/media/phantomtyper.png": "/static/media/phantomtyper.ce9fb51be25b456f52a9.png",
+    "images/Programmer.svg": "/images/f538cf11438bccd6ad39aa9374966899-Programmer.svg",
+    "static/media/resume.odt": "/static/media/resume.d0e304cacb9012280e95.odt",
+    "images/skills.svg": "/images/2172522b75b9a22ce3c92297b2c943f6-skills.svg",
+    "images/work.svg": "/images/29ee6fe2709985e4d47ed211329b0123-work.svg",
+    "images/facebook.svg": "/images/21e74d31c70269d023323c473147b60b-facebook.svg",
+    "images/projects.svg": "/images/df2a48f07782215ebb6f0c65da8f4ec6-projects.svg",
+    "images/github.svg": "/images/a61b960f2ce17e7b773b7e1013673b9f-github.svg",
+    "images/contact.svg": "/images/e1b68c642aad13ba27cce6bfa93ca717-contact.svg",
+    "index.html": "/index.html",
+    "images/instagram.svg": "/images/b9b5488edf927d32cc05a1fed887431c-instagram.svg",
+    "main.1e25d761.css.map": "/static/css/main.1e25d761.css.map",
+    "main.2548e21e.js.map": "/static/js/main.2548e21e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e25d761.css",
+    "static/js/main.2548e21e.js"
+  ]
+}
